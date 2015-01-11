@@ -1,0 +1,21 @@
+= 全文検索エンジン\nGroongaへの\nmrubyの組み込み
+
+: author
+   須藤功平
+: institution
+   Groongaプロジェクト
+: content-source
+   第7回フクオカRuby大賞
+: date
+   2015-01-23
+: allotted-time
+   10m
+: theme
+   .
+
+= 説明すること
+
+  (1) 特徴
+  (2) Rubyを適用した箇所
+  (3) Rubyを活用したことによる\n
+      効果、社会に及ぼす影響
