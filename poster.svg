@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88693889"
-     inkscape:cx="510.931"
-     inkscape:cy="409.00786"
+     inkscape:zoom="0.6271605"
+     inkscape:cx="554.76505"
+     inkscape:cy="491.13452"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1337"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -188,19 +188,15 @@
          y="204.81734">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="338.93439"
        y="266.25684"
        id="text3084"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4285"
-         x="338.93439"
-         y="266.25684">拡張性が高いアプリ</tspan><tspan
+         id="tspan3088">拡張性が高いアプリ</tspan><tspan
          sodipodi:role="line"
-         id="tspan4287"
-         x="338.93439"
-         y="293.48239">（Trusted・rumin）</tspan></text>
+         id="tspan3090">（Trusterd・rumin）</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3096"
