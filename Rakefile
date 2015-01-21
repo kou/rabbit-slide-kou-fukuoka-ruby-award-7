@@ -5,7 +5,8 @@ require "rabbit/task/slide"
 spec = nil
 Rabbit::Task::Slide.new do |task|
   spec = task.spec
-  # spec.files += Dir.glob("doc/**/*.*")
+  spec.files += Dir.glob("poster.svg")
+  spec.files += Dir.glob("images/*.svg")
   # spec.files -= Dir.glob("private/**/*.*")
   spec.add_runtime_dependency("groonga")
 end
