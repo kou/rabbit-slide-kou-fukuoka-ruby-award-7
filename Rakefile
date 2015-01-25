@@ -8,7 +8,7 @@ Rabbit::Task::Slide.new do |task|
   spec.files += Dir.glob("poster.svg")
   spec.files += Dir.glob("images/*.svg")
   # spec.files -= Dir.glob("private/**/*.*")
-  spec.add_runtime_dependency("groonga")
+  spec.add_runtime_dependency("rabbit-theme-groonga")
 end
 
 desc "Tag #{spec.version}"
